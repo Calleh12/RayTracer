@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RayTrace - DirectCompute", "RayTrace - DirectCompute\RayTrace - DirectCompute.vcxproj", "{931808AB-C1A7-4760-9756-AB3027D48219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931808AB-C1A7-4760-9756-AB3027D48219}.Debug|Win32.ActiveCfg = Debug|Win32
+		{931808AB-C1A7-4760-9756-AB3027D48219}.Debug|Win32.Build.0 = Debug|Win32
+		{931808AB-C1A7-4760-9756-AB3027D48219}.Release|Win32.ActiveCfg = Release|Win32
+		{931808AB-C1A7-4760-9756-AB3027D48219}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

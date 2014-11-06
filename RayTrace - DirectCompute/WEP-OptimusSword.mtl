@@ -1,0 +1,15 @@
+newmtl WEP_OptimusSword_MATINST
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd WEP_OptimusSword_TEXTSET_Color_NormX.png
+map_bump WEP_OptimusSword_TEXTSET_Masks_NormY.png
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
